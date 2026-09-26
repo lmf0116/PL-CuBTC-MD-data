@@ -5,7 +5,6 @@ Raw simulation records for the manuscript
 > **Atomistic description of competitive interfacial effects in Cu-MOF modified
 > PEO-LiTFSI composites**
 
-submitted to *The Journal of Physical Chemistry C*.
 
 This repository collects the molecular-dynamics (MD) and grand canonical Monte
 Carlo (GCMC) results used to build the tables and figures in the manuscript and
@@ -75,11 +74,7 @@ equilibrium model parameters are in the manuscript and Supporting Information
 
 ## Citation
 
-If you use these data, please cite the manuscript and this repository:
-
-> Liang, M.; Li, X.; Zhou, H.; et al. Atomistic description of competitive
-> interfacial effects in Cu-MOF modified PEO-LiTFSI composites. *J. Phys. Chem. C*
-> (in submission). Simulation data: https://github.com/<owner>/PL-CuBTC-MD-data.
+If you use these data, please cite the manuscript
 
 ## License
 
@@ -89,4 +84,4 @@ license — see `LICENSE`. The export script in `scripts/` is MIT-licensed.
 
 ## Contact
 
-Han Zhou — jonezy@126.com · Xiangyang Li — liyang2039@163.com
+lmf844922127@gmail.com
