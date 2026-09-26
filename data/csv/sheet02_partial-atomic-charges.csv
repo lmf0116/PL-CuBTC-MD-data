@@ -1,0 +1,12 @@
+Partial Atomic Charges Calculated from DFT ,,,,,,,
+tfsi-[1],,Cu-BTC[2],,,,,
+C,0.33145,O,-0.665,,,,
+S,0.81392,C_1,0.778,,,,
+O,-0.47079,C_2,-0.092,,,,
+F,-0.14365,C_3,-0.014,,,,
+,,H_Benzene,0.109,,,,
+,,Cu-BTC,1.098,,,,
+"[1]Comparative Study of Isomeric TFSI and FPFSI Anions in Li-Ion
+Electrolytes Using Quantum Chemistry and Ab Initio Molecular
+Dynamics",,,,,,,
+[2]A force field for dynamic Cu-BTC metal-organic framework,,,,,,,
